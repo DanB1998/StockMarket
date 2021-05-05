@@ -1,3 +1,45 @@
-body {
-    color: red;
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.navbar{
+    height: 100px;
+    width: 100%;
+}
+
+.logobox{
+    width: 125px;
+    height: 100px;
+    float: left;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 25px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: black;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid black;
+}
+
+#menu li{
+    font-size: 120%;
+    float: right;
+    list-style-type: none;
+    display: flex;
+    margin-right: 50px;
+    margin-top: 40px;
+    color: white;
 }
