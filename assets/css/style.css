@@ -63,16 +63,49 @@ header{
     position: absolute;
 }
 
-h1{
+#herotitle{
     font-size: 50px;
     margin-top: 50%;
 }
 
-p{
+#herodescription{
     padding: 20px;
+}
+
+.whyinv{
+    margin-bottom: 30px;
 }
 
 #risks{
     text-align: center;
     padding: 30px;
+}
+
+.row h1{
+    text-align: center;
+    text-decoration: underline;
+    padding: 30px;
+}
+
+.row h3{
+    text-align: center;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.row i{
+    padding: 25px;
+}
+
+.row{
+    background-color: rgb(31, 1, 59);
+    color: white;
+}
+
+.row p{
+    text-align: center;
+}
+
+.row div{
+    border: 1px solid black;
 }
