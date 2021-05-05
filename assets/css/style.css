@@ -60,6 +60,7 @@ nav{
 .gettingstartedbackground{
     background-image: url(../images/gettingstartedbackground.jpg);
     height: 500px;
+    background-position: -225px -150px;
 }
 
 .title{
