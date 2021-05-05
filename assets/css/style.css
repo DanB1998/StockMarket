@@ -109,3 +109,8 @@ header{
 .row div{
     border: 1px solid black;
 }
+
+.whyinv img{
+    padding: 30px;
+    align: center;
+}
