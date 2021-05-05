@@ -43,3 +43,24 @@ body{
     margin-top: 40px;
     color: white;
 }
+
+.background{
+    background-image: url(../images/stockbackground.png);
+    height: 900px;
+}
+
+.title{
+    display: flex;
+    color: white;
+    height: 90%;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 20px;
+    font-size: 40px;
+    position: center;
+}
+
+p{
+    padding: 20px;
+    float: right;
+}
