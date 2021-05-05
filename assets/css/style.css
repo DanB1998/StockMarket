@@ -134,6 +134,10 @@ header{
     padding: 20px;
 }
 
+.posneg{
+    text-align: center;
+}
+
 #longtrading{
     background-color: rgb(31, 1, 59);
     color: white;
@@ -143,6 +147,7 @@ header{
     padding: 40px;
     width: 80%;
     margin: auto;
+    font-size: 115%;
 }
 
 #longtrading h1{
