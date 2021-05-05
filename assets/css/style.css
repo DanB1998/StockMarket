@@ -76,41 +76,66 @@ header{
     margin-bottom: 30px;
 }
 
-#risks{
+#overview{
     text-align: center;
     padding: 30px;
 }
 
-.row h1{
+#risks h1{
     text-align: center;
     text-decoration: underline;
     padding: 30px;
 }
 
-.row h3{
+#risks h3{
     text-align: center;
     padding: 30px;
     margin-top: 20px;
 }
 
-.row i{
+#risks i{
     padding: 25px;
 }
 
-.row{
+#risks{
     background-color: rgb(31, 1, 59);
     color: white;
 }
 
-.row p{
+#risks p{
     text-align: center;
 }
 
-.row div{
+#risks div{
     border: 1px solid black;
 }
 
 .whyinv img{
     padding: 30px;
-    align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+#types h1{
+    padding: 30px;
+    text-align: center;
+}
+
+#types h3{
+    padding: 30px;
+}
+
+#types p{
+    padding: 20px;
+}
+
+#longtrading{
+    background-color: rgb(31, 1, 59);
+    color: white;
+}
+
+#longtrading h1{
+    padding: 30px;
+    text-align: center;
 }
