@@ -12,6 +12,10 @@ header{
     height: 75px;
 }
 
+nav{
+    height: 100px;
+}
+
 .logotitle{
     position: absolute;
 }
@@ -51,6 +55,11 @@ header{
 .background{
     background-image: url(../images/websitebackgroundimage.jpeg);
     height: 900px;
+}
+
+.gettingstartedbackground{
+    background-image: url(../images/gettingstartedbackground.jpg);
+    height: 500px;
 }
 
 .title{
@@ -168,11 +177,19 @@ header{
 }
 
 footer{
-    background-color: rgb(31, 1, 59);
     height: 150px;
     color: white;
     text-align: center;
     list-style-type: none;
+    width: 100%;
+}
+
+#frontpagefooter{
+    background-color: rgb(31, 1, 59);
+}
+
+#gettingstartedfooter{
+    background-color: rgb(102, 139, 66);
 }
 
 footer h5{
@@ -187,4 +204,8 @@ footer .smicons li{
 
 footer i{
     color: white;
+}
+
+.started h1{
+    text-align: center;
 }
