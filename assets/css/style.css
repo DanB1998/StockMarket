@@ -126,6 +126,10 @@ header{
     padding: 30px;
 }
 
+#types i{
+    padding: 20px;
+}
+
 #types p{
     padding: 20px;
 }
@@ -137,6 +141,8 @@ header{
 
 #longtrading p{
     padding: 40px;
+    width: 80%;
+    margin: auto;
 }
 
 #longtrading h1{
