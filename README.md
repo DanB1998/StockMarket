@@ -12,6 +12,10 @@ The aims of this project are to provide an introduction to what the stock market
 
 The Nav bar is simple and easy to use, and remains the same on each page to allow for easy navigation of the 3 pages; Home, getting started and contact.
 
+It also folds in at a certain width, to allow for functionality on smaller on devices.
+
+This was achieved by bootstrap v4.6. Large amounts of the hea
+
 ### Background image
 
 * My main focus during this project was to keep the website looking very clean and spacious. As I think this is the best way to convey information.
@@ -20,7 +24,7 @@ The Nav bar is simple and easy to use, and remains the same on each page to allo
 
 ### The main content
 
-The main content is laid out using bootstraps grid system. I used this as I thought it was the easiest way to structure a website that is trying to teach a user something.
+The main content is laid out using bootstraps grid system. I used this as I thought it was the easiest way to structure a website that is trying to teach a user something. This also keeps the website fully responsive when it is scaled down and allows for structure when viewed on smaller devices.
 
 ### Tiles
 
