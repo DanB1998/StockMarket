@@ -139,15 +139,15 @@ nav{
 }
 
 #types h3{
-    padding: 30px;
+    padding: 25px;
 }
 
 #types i{
-    padding: 20px;
+    padding: 10px;
 }
 
 #types p{
-    padding: 20px;
+    padding: 15px;
 }
 
 .posneg{
@@ -160,8 +160,8 @@ nav{
 }
 
 #longtrading p{
-    padding: 40px;
-    width: 80%;
+    padding: 20px;
+    width: 90%;
     margin: auto;
     font-size: 115%;
 }
