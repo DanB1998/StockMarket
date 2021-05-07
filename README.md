@@ -60,11 +60,11 @@ The footer is simple and easy, with 4 links to my social media and some text inv
 
 HTML
 
-* * No errors found when HTML code passed through the 
+* * No errors found when HTML code passed through the https://validator.w3.org/
 
 CSS
 
-* * No errors found when CSS code passed through the
+* * No errors found when CSS code passed through the https://jigsaw.w3.org/
 
 ### Unfixed bugs
 
