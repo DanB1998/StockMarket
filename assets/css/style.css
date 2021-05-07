@@ -34,11 +34,6 @@ nav{
     background-position: -225px -150px;
 }
 
-.contactbackground{
-    background-image: url(../images/contactbackground.jpg);
-    height: 900px;
-}
-
 .title{
     color: white;
     height: 90%;
@@ -192,6 +187,50 @@ footer i{
     color: white;
 }
 
+#portfolio h1{
+    text-align: center;
+    padding: 20px;
+}
+
 .started h1{
     text-align: center;
+}
+
+#charttext{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#piechart{
+    padding: 20px;
+}
+
+#chartdiv{
+    margin-top: 60px;
+}
+
+#charttext p{
+    padding: 20px;
+}
+
+.contactme h2{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.contactme p{
+    margin-top: 20px;
+}
+
+input{
+    border: solid 1px grey;
+    width: 100%;
+}
+
+#form{
+    border: solid 1px grey;
+    padding: 20px;
+    margin-top: 175px;
+    margin-bottom: 100px;
+    border-radius: 30px;
 }
