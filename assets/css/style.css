@@ -222,9 +222,13 @@ footer i{
     margin-top: 20px;
 }
 
-input{
+.dataentry{
     border: solid 1px grey;
     width: 100%;
+}
+
+#formrow{
+    padding: 20px;
 }
 
 #form{
@@ -233,4 +237,23 @@ input{
     margin-top: 175px;
     margin-bottom: 100px;
     border-radius: 30px;
+}
+
+.submitbutton{
+    margin: 20px 0;
+    padding: 10px;
+    background-color: rgb(46, 46, 180);
+    width: 100%;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+
+#message{
+    height: 200px;
+}
+
+textarea{
+    width: 100%;
+    border: 1px solid black;
 }

@@ -32,25 +32,28 @@
     </nav>
     <!-- Contact form for any questions -->
     <section class="contactme">
-        <div class="row">
+        <div class="row" id="formrow">
             <div class="col-md-8 offset-md-2" id="form">
+                <form>
                 <h2>Ask me a question!</h2>
                 <p>If there are any further questions you have after reading this website, or any constructive
                     critisicm, please feel free to leave it here.</p>
                 <p><i class="fas fa-users"></i> <label for="fname">First Name</label> <i
                         class="fas fa-star-of-life"></i></p>
-                <input type="text" id="fname" name="first_name" required class="text-input">
+                <input class="dataentry" type="text" id="fname" name="first_name" required class="text-input">
                 <p><i class="far fa-address-card"></i> <label for="lname">Last Name</label> <i
                         class="fas fa-star-of-life"></i></p>
-                <input type="text" id="lname" name="last_name" required class="text-input">
+                <input class="dataentry" type="text" id="lname" name="last_name" required class="text-input">
                 <p><i class="far fa-clipboard"></i> <label for="email">Email Address</label> <i
                         class="fas fa-star-of-life"></i></p>
-                <input type="email" id="email" name="email_address" required class="text-input">
+                <input class="dataentry" type="email" id="email" name="email_address" required class="text-input">
                 <p><i class="fas fa-mobile-alt"></i> <label for="email">Mobile</label> </p>
-                <input type="text" id="mobile" name="mobile" required class="text-input">
-                <p><i class="far fa-comments"></i> <label for="email">Your Message</label> <i
+                <input class="dataentry" type="text" id="mobile" name="mobile" required class="text-input">
+                <p><i class="far fa-comments"></i> <label for="message">Your Message</label> <i
                         class="fas fa-star-of-life"></i></p>
-                <input type="text" id="mobile" name="mobile" required class="text-input">
+                <textarea for="message" type="text" id="message" name="message" placeholder="Write your message here" required class="text-input"></textarea>
+                <input class="submitbutton" type="submit" value="Submit!" />
+                </form>
             </div>
         </div>
     </section>
