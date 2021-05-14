@@ -24,12 +24,12 @@ nav{
 }
 
 .background{
-    background-image: url(../images/websitebackgroundimage.jpeg);
+    background-image: url(../images/landingpage.jpg);
     height: 900px;
 }
 
 .gettingstartedbackground{
-    background-image: url(../images/gettingstartedbackground.jpg);
+    background-image: url(../images/gstarted.jpg);
     height: 500px;
     background-position: -225px -150px;
 }
@@ -260,6 +260,7 @@ textarea{
 .resources img{
     padding: 20px;
     border-radius: 30px;
+    height: 250px;
 }
 
 .resources h5{
