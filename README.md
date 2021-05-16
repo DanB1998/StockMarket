@@ -54,6 +54,11 @@ Using bootstrap the website is designed to be functional on all devices. This al
 
 ## Wireframes
 
+![Wireframes](assets/images/wireframe1.jpg) ![Wireframes](assets/images/wireframe2.jpg) ![Wireframes](assets/images/wireframe3.jpg)
+![Wireframes](assets/images/wireframe4.jpg) ![Wireframes](assets/images/wireframe5.jpg) ![Wireframes](assets/images/wireframe.jpg)
+
+My wireframes created as a plan transpired quite closely to the finished website. Some minor adjustments and structural changes were made in order to make the website more responsive and streamline.
+
 # Features
 
 ### Navigation bar
@@ -62,9 +67,9 @@ Using bootstrap the website is designed to be functional on all devices. This al
 
 The Navigation bar is simple and easy to use, and remains the same on each page to allow for easy navigation of the 3 pages; Home, getting started and contact. It will stick to the top to allow for navigation whenever the user needs it.
 
-It also folds in at a certain width, to allow for functionality on smaller on devices.
+It also folds in at a certain width and provides a dropdown, to allow for better functionality on smaller on devices.
 
-This was achieved by bootstrap v4.6. Large amounts of the nav bar were produced using this library.
+This was achieved using bootstrap v4.6. Large amounts of the nav bar were produced using this library.
 
 ## Landing Page
 
@@ -94,7 +99,7 @@ A simple form to allow users to ask a question if they need to. This allows peop
 
 ## The Footer
 
-The footer is simple and easy, with 4 links to my social media and some text inviting a user to learn more about me. This allows people to connect to me socially of they feel like they want to.
+The footer is simple and easy, with 4 links to my social media and some text inviting a user to learn more about me. This allows people to connect to me socially of they feel like they want to. These links open in a new tab to ensure the user isn't redirected off my page, this provides a better user experience.
 
 ## Future ideas
 
