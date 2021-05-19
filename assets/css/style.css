@@ -26,12 +26,13 @@ nav{
 .background{
     background-image: url(../images/landingpage.jpg);
     height: 900px;
+    background-size: cover;
 }
 
 .gettingstartedbackground{
     background-image: url(../images/gstarted.jpg);
     height: 500px;
-    background-position: -225px -150px;
+    background-size: cover;
 }
 
 .title{
@@ -79,7 +80,7 @@ nav{
 }
 
 #risks{
-    background-color: rgb(31, 1, 59);
+    background-color: rgb(5, 105, 145);
     color: white;
 }
 
@@ -125,7 +126,7 @@ nav{
 }
 
 #longtrading{
-    background-color: rgb(31, 1, 59);
+    background-color: rgb(5, 105, 145);
     color: white;
 }
 
