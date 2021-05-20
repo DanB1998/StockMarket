@@ -94,8 +94,7 @@ nav{
 
 .whyinv img{
     padding: 30px;
-    object-fit: contain; 
-    display: block;
+    object-fit: contain;
     margin-left: auto;
     margin-right: auto;  
     border-radius: 70px;

@@ -148,6 +148,14 @@ To host and store my project remotely.
 
 # Testing
 
+## Using lighthouse
+
+Lighthouse helped me tidy up the webpage, make it more accessible and add in any features I overlooked whilst coding
+
+![Getting started lighthouse](assets/images/gstartedbefore.png)
+
+I found most of my issues to be with image sizes, so I had to go back through and modify most of my images. This boosted the performance significantly. The accessibility and best practices helped me add in features I forgot like aria lables and alts.
+
 ## Validator Testing
 
 HTML
