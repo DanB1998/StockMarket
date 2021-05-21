@@ -59,6 +59,21 @@ Using bootstrap the website is designed to be functional on all devices. This al
 
 My wireframes created as a plan transpired quite closely to the finished website. Some minor adjustments and structural changes were made in order to make the website more responsive and streamline.
 
+I plan to use a computer apllication or site to do my wireframes next time as I think they can be clearer and easier to complete.
+
+### Layout 
+
+Font used.
+
+* Main font was "roboto" with a secondary font of "sans-serif.
+
+Main colour used in the project: 
+
+* Background rgb(5, 105, 145)
+
+* Text, White and Black
+
+
 # Features
 
 ### Navigation bar
@@ -124,7 +139,7 @@ For styling
 Bootstrap v4.6 
 
 * Css framework for mobile responsiveness.
-* Some JS involved as I also used bootstrasp for a responsive navigation bar.
+* Some JS involved as I also used bootstrap for a responsive navigation bar.
 
 #### Google Fonts
 
@@ -132,11 +147,11 @@ To select my main font.
 
 #### Fontawesome
 
-Use of variuos icons throughout the project.
+Use of various icons throughout the project.
 
 #### Git
 
-Used for verion control
+Used for version control
 
 #### Gitpod
 
@@ -164,7 +179,7 @@ It allowed me to correct problems in performance, accessibility and best practic
 
 ![Lighthouse After](assets/images/indexafter.png)
 
-I was able to significantly increade my websites usability as shown by the increas in scores given by lighthouse.
+I was able to significantly increade my websites usability as shown by the increase in scores given by lighthouse.
 
 ## User Stories Testing 
 
@@ -232,7 +247,7 @@ CSS
 
 ### Unfixed bugs
 
-None Identified.
+Form has autofill off. The mailto function makes the form not secure. I believe this is a problem with the HTTPS and HTTP protocol of the 2 sites. Meaning information submitted in this form can be taken from malicious people.
 
 ## Deployment
 
