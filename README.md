@@ -190,3 +190,17 @@ You can also run the repository locally.
 3. Extract the file and use in an appropriate environment.
 
 ## Credits
+
+Websites used for resources and quick bug fixes:
+
+* https://stackoverflow.com/
+
+* https://www.w3schools.com/
+
+### Code 
+
+* Bootrap: [NavBar](https://getbootstrap.com/docs/4.0/components/navbar/ "NavBar")
+
+### Images 
+
+All images downloaded with licence from [Shuttertock](https://www.shutterstock.com/)
