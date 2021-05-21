@@ -148,13 +148,77 @@ To host and store my project remotely.
 
 # Testing
 
+I used Chrome developer tools to solve problems with sizing and spacing and problmes with styling. The way it shows the div sized and highlights them helped me understand how the code was interacting with the project.
+
+### Device Testing 
+
+The final site was tested across desktop, Ipad and Mobile. I used all of the devices listed in chrome developer tools to make sure my website was fully responsive.
+
 ## Using lighthouse
 
 Lighthouse helped me tidy up the webpage, make it more accessible and add in any features I overlooked whilst coding
 
-![Getting started lighthouse](assets/images/gstartedbefore.png)
+It allowed me to correct problems in performance, accessibility and best practices.
 
-I found most of my issues to be with image sizes, so I had to go back through and modify most of my images. This boosted the performance significantly. The accessibility and best practices helped me add in features I forgot like aria lables and alts.
+![Lighthouse Before](assets/images/indexbefore.png)
+
+![Lighthouse After](assets/images/indexafter.png)
+
+I was able to significantly increade my websites usability as shown by the increas in scores given by lighthouse.
+
+## User Stories Testing 
+
+As the website owner:
+
+1. Convey information in a clear and well informed style and ensure users are not confused or put off by page noise.
+
+* Text is large and not crammed together.
+
+* Colours are non conflicting to improve site readability.
+
+* Information given is in basic layout and organised simplistically so the flow of the website is easy to follow.
+
+2. Need to advertise websites and products well to ensure my website is attractive for people to want to advertise their products on my site.
+
+* Library Section looks professional and well defined so that visitors are enticed to ask to be featured on the website.
+
+3. The website needs to be easy to navigate so that people that aren't as clued up about technology still have no problem navigating.
+
+* Website is only 3 pages which have an easy to follow structure.
+
+* NavBar sticks to the top so no scrolling is needed to navigate.
+
+As a first time website user:
+
+1. Find clear and concise information on investing and be able to find follow up resources to continue research.
+
+* Information is clear and concise and links to resources are provided.
+
+2. Be able to contact someone in the event that a question is present which the website does not answer.
+
+* Contact page to ask more questions.
+
+3. Find links to social media to connect with other people that are also intersted about investing.
+
+* Links to social media provided in the Footer. 
+
+As a returning user:
+
+1. Revisit information easily and be able to find resources without having to renavigate through a lot of irrelevant material.
+
+* Site is spacious. NavBar sticks to the top to allow fast and quick navigation.
+
+2. Ask a question or connect over social media, maybe for more resources or more advice regarding further learning.
+
+* Contact page allows site users to ask a direct question. Links to more resources present.
+
+## Fixing problems 
+
+When shifting down to the mobile device size the landing page was not downsizing as it has a set height. This means on mobile the user had to scroll past a lot of empty space to get to the first piece of content.
+
+![MediaQuery](assets/images/mediaquery.png)
+
+Using this media query it allowed me to downsize the background height to 600px when the screen went below a width of 700px. This tidied up the problem. 
 
 ## Validator Testing
 
@@ -168,7 +232,7 @@ CSS
 
 ### Unfixed bugs
 
-Unsure how to scale the landing page down without too much interference on landing page on mobile devices so a brief gap between "hero text" and "Why invest" is a minor visual issue.
+None Identified.
 
 ## Deployment
 
@@ -200,7 +264,8 @@ Websites used for resources and quick bug fixes:
 ### Code 
 
 * Bootrap: [NavBar](https://getbootstrap.com/docs/4.0/components/navbar/ "NavBar")
+* Bootrap: [Images](https://getbootstrap.com/docs/4.0/content/images/ "Images")
 
 ### Images 
 
-All images downloaded with licence from [Shuttertock](https://www.shutterstock.com/)
+All website images downloaded with licence from [Shutterstock](https://www.shutterstock.com/)
